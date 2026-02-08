@@ -28,10 +28,10 @@ v24.11.1
 - Назва: [VS Code]
 
 **Скріншоти:**  
-![Git](images/Git.png)
-![Node](images/Node.png)
-![Npm init](images/Npm_init.png)
-![React start](images/run.png)
+![Git](Images/Git.png)
+![Node](Images/Node.png)
+![Npm init](Images/Npm_init.png)
+![React start](Images/run.png)
 
 ---
 
