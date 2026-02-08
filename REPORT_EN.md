@@ -29,10 +29,10 @@ To learn how to configure a development environment, utilize Git for version con
 - Name: [VS Code]
 
 **Screenshots:**  
-![Git](images/Git.png)
-![Node](images/Node.png)
-![Npm init](images/Npm_run.png)
-![React start](images/React_init.png)
+![Git](Images/Git.png)
+![Node](Images/Node.png)
+![Npm init](Images/Npm_run.png)
+![React start](Images/React_init.png)
 
 ---
 
