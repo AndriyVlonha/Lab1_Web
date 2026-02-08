@@ -31,8 +31,8 @@ To learn how to configure a development environment, utilize Git for version con
 **Screenshots:**  
 ![Git](Images/Git.png)
 ![Node](Images/Node.png)
-![Npm init](Images/Npm_run.png)
-![React start](Images/React_init.png)
+![Npm init](Images/Npm_init.png)
+![React start](Images/run.png)
 
 ---
 
